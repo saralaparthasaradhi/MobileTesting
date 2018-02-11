@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-01-12T20:16:29Z" name="Default suite" finished-at="2018-01-12T20:17:13Z" duration-ms="44285">
+    <groups>
+    </groups>
+    <test started-at="2018-01-12T20:16:29Z" name="Default test" finished-at="2018-01-12T20:17:13Z" duration-ms="44285">
+      <class name="MobileTestPack.Calculator">
+        <test-method signature="calculator()[pri:0, instance:MobileTestPack.Calculator@2de23121]" started-at="2018-01-12T14:16:29Z" name="calculator" finished-at="2018-01-12T14:17:13Z" duration-ms="44257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculator -->
+      </class> <!-- MobileTestPack.Calculator -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
